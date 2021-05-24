@@ -215,7 +215,6 @@ $ git push myrepo master
 
 Provide following users read access to your repository
 
-- cwinters
 - skumar-tii
 - <>
 
